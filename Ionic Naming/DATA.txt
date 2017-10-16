@@ -1,0 +1,1924 @@
+Lithium Nitrite	LiNO2
+Lithium Nitrate	LiNO3
+Lithium Hydrogen Sulfate	LiHSO4
+Lithium Hydroxide	LiOH
+Lithium Cyanide	LiCN
+Lithium Permanganate	LiMnO4
+Lithium Hydrogen Carbonate	LiHCO3
+Lithium Hypochlorite	LiClO
+Lithium Chlorite	LiClO2
+Lithium Chlorate	LiClO3
+Lithium Perchlorate	LiClO4
+Lithium Bromate	LiBrO3
+Lithium Iodate	LiIO3
+Lithium Periodate	LiIO4
+Lithium Acetate	LiC2H3O2
+Lithium Dihydrogen Phosphate	LiH2PO4
+Lithium Carbonate	Li2CO3
+Lithium Sulfite	Li2SO3
+Lithium Sulfate	Li2SO4
+Lithium Thiosulfate	Li2S2O3
+Lithium Peroxide	Li2O2
+Lithium Chromate	Li2CrO4
+Lithium Dichromate	Li2Cr2O7
+Lithium Hydrogen Phosphate	Li2HPO4
+Lithium Phosphate	Li3PO4
+Lithium Arsenate	Li3AsO4
+Lithium Nitride	Li3N
+Lithium Phosphide	Li3P
+Lithium Arsenide	Li3As
+Lithium Oxide	Li2O
+Lithium Sulfide	Li2S
+Lithium Selenide	Li2Se
+Lithium Telluride	Li2Te
+Lithium Fluoride	LiF
+Lithium Chloride	LiCl
+Lithium Bromide	LiBr
+Lithium Iodide	LiI
+Sodium Nitrite	NaNO2
+Sodium Nitrate	NaNO3
+Sodium Hydrogen Sulfate	NaHSO4
+Sodium Hydroxide	NaOH
+Sodium Cyanide	NaCN
+Sodium Permanganate	NaMnO4
+Sodium Hydrogen Carbonate	NaHCO3
+Sodium Hypochlorite	NaClO
+Sodium Chlorite	NaClO2
+Sodium Chlorate	NaClO3
+Sodium Perchlorate	NaClO4
+Sodium Bromate	NaBrO3
+Sodium Iodate	NaIO3
+Sodium Periodate	NaIO4
+Sodium Acetate	NaC2H3O2
+Sodium Dihydrogen Phosphate	NaH2PO4
+Sodium Carbonate	Na2CO3
+Sodium Sulfite	Na2SO3
+Sodium Sulfate	Na2SO4
+Sodium Thiosulfate	Na2S2O3
+Sodium Peroxide	Na2O2
+Sodium Chromate	Na2CrO4
+Sodium Dichromate	Na2Cr2O7
+Sodium Hydrogen Phosphate	Na2HPO4
+Sodium Phosphate	Na3PO4
+Sodium Arsenate	Na3AsO4
+Sodium Nitride	Na3N
+Sodium Phosphide	Na3P
+Sodium Arsenide	Na3As
+Sodium Oxide	Na2O
+Sodium Sulfide	Na2S
+Sodium Selenide	Na2Se
+Sodium Telluride	Na2Te
+Sodium Fluoride	NaF
+Sodium Chloride	NaCl
+Sodium Bromide	NaBr
+Sodium Iodide	NaI
+Potassium Nitrite	KNO2
+Potassium Nitrate	KNO3
+Potassium Hydrogen Sulfate	KHSO4
+Potassium Hydroxide	KOH
+Potassium Cyanide	KCN
+Potassium Permanganate	KMnO4
+Potassium Hydrogen Carbonate	KHCO3
+Potassium Hypochlorite	KClO
+Potassium Chlorite	KClO2
+Potassium Chlorate	KClO3
+Potassium Perchlorate	KClO4
+Potassium Bromate	KBrO3
+Potassium Iodate	KIO3
+Potassium Periodate	KIO4
+Potassium Acetate	KC2H3O2
+Potassium Dihydrogen Phosphate	KH2PO4
+Potassium Carbonate	K2CO3
+Potassium Sulfite	K2SO3
+Potassium Sulfate	K2SO4
+Potassium Thiosulfate	K2S2O3
+Potassium Peroxide	K2O2
+Potassium Chromate	K2CrO4
+Potassium Dichromate	K2Cr2O7
+Potassium Hydrogen Phosphate	K2HPO4
+Potassium Phosphate	K3PO4
+Potassium Arsenate	K3AsO4
+Potassium Nitride	K3N
+Potassium Phosphide	K3P
+Potassium Arsenide	K3As
+Potassium Oxide	K2O
+Potassium Sulfide	K2S
+Potassium Selenide	K2Se
+Potassium Telluride	K2Te
+Potassium Fluoride	KF
+Potassium Chloride	KCl
+Potassium Bromide	KBr
+Potassium Iodide	KI
+Rubidium Nitrite	RbNO2
+Rubidium Nitrate	RbNO3
+Rubidium Hydrogen Sulfate	RbHSO4
+Rubidium Hydroxide	RbOH
+Rubidium Cyanide	RbCN
+Rubidium Permanganate	RbMnO4
+Rubidium Hydrogen Carbonate	RbHCO3
+Rubidium Hypochlorite	RbClO
+Rubidium Chlorite	RbClO2
+Rubidium Chlorate	RbClO3
+Rubidium Perchlorate	RbClO4
+Rubidium Bromate	RbBrO3
+Rubidium Iodate	RbIO3
+Rubidium Periodate	RbIO4
+Rubidium Acetate	RbC2H3O2
+Rubidium Dihydrogen Phosphate	RbH2PO4
+Rubidium Carbonate	Rb2CO3
+Rubidium Sulfite	Rb2SO3
+Rubidium Sulfate	Rb2SO4
+Rubidium Thiosulfate	Rb2S2O3
+Rubidium Peroxide	Rb2O2
+Rubidium Chromate	Rb2CrO4
+Rubidium Dichromate	Rb2Cr2O7
+Rubidium Hydrogen Phosphate	Rb2HPO4
+Rubidium Phosphate	Rb3PO4
+Rubidium Arsenate	Rb3AsO4
+Rubidium Nitride	Rb3N
+Rubidium Phosphide	Rb3P
+Rubidium Arsenide	Rb3As
+Rubidium Oxide	Rb2O
+Rubidium Sulfide	Rb2S
+Rubidium Selenide	Rb2Se
+Rubidium Telluride	Rb2Te
+Rubidium Fluoride	RbF
+Rubidium Chloride	RbCl
+Rubidium Bromide	RbBr
+Rubidium Iodide	RbI
+Cesium Nitrite	CsNO2
+Cesium Nitrate	CsNO3
+Cesium Hydrogen Sulfate	CsHSO4
+Cesium Hydroxide	CsOH
+Cesium Cyanide	CsCN
+Cesium Permanganate	CsMnO4
+Cesium Hydrogen Carbonate	CsHCO3
+Cesium Hypochlorite	CsClO
+Cesium Chlorite	CsClO2
+Cesium Chlorate	CsClO3
+Cesium Perchlorate	CsClO4
+Cesium Bromate	CsBrO3
+Cesium Iodate	CsIO3
+Cesium Periodate	CsIO4
+Cesium Acetate	CsC2H3O2
+Cesium Dihydrogen Phosphate	CsH2PO4
+Cesium Carbonate	Cs2CO3
+Cesium Sulfite	Cs2SO3
+Cesium Sulfate	Cs2SO4
+Cesium Thiosulfate	Cs2S2O3
+Cesium Peroxide	Cs2O2
+Cesium Chromate	Cs2CrO4
+Cesium Dichromate	Cs2Cr2O7
+Cesium Hydrogen Phosphate	Cs2HPO4
+Cesium Phosphate	Cs3PO4
+Cesium Arsenate	Cs3AsO4
+Cesium Nitride	Cs3N
+Cesium Phosphide	Cs3P
+Cesium Arsenide	Cs3As
+Cesium Oxide	Cs2O
+Cesium Sulfide	Cs2S
+Cesium Selenide	Cs2Se
+Cesium Telluride	Cs2Te
+Cesium Fluoride	CsF
+Cesium Chloride	CsCl
+Cesium Bromide	CsBr
+Cesium Iodide	CsI
+Beryllium Nitrite	Be(NO2)2
+Beryllium Nitrate	Be(NO3)2
+Beryllium Hydrogen Sulfate	Be(HSO4)2
+Beryllium Hydroxide	Be(OH)2
+Beryllium Cyanide	Be(CN)2
+Beryllium Permanganate	Be(MnO4)2
+Beryllium Hydrogen Carbonate	Be(HCO3)2
+Beryllium Hypochlorite	Be(ClO)2
+Beryllium Chlorite	Be(ClO2)2
+Beryllium Chlorate	Be(ClO3)2
+Beryllium Perchlorate	Be(ClO4)2
+Beryllium Bromate	Be(BrO3)2
+Beryllium Iodate	Be(IO3)2
+Beryllium Periodate	Be(IO4)2
+Beryllium Acetate	Be(C2H3O2)2
+Beryllium Dihydrogen Phosphate	Be(H2PO4)2
+Beryllium Carbonate	BeCO3
+Beryllium Sulfite	BeSO3
+Beryllium Sulfate	BeSO4
+Beryllium Thiosulfate	BeS2O3
+Beryllium Peroxide	BeO2
+Beryllium Chromate	BeCrO4
+Beryllium Dichromate	BeCr2O7
+Beryllium Hydrogen Phosphate	BeHPO4
+Beryllium Phosphate	Be3(PO4)2
+Beryllium Arsenate	Be3(AsO4)2
+Beryllium Nitride	Be3N2
+Beryllium Phosphide	Be3P2
+Beryllium Arsenide	Be3As2
+Beryllium Oxide	BeO
+Beryllium Sulfide	BeS
+Beryllium Selenide	BeSe
+Beryllium Telluride	BeTe
+Beryllium Fluoride	BeF2
+Beryllium Chloride	BeCl2
+Beryllium Bromide	BeBr2
+Beryllium Iodide	BeI2
+Magnesium Nitrite	Mg(NO2)2
+Magnesium Nitrate	Mg(NO3)2
+Magnesium Hydrogen Sulfate	Mg(HSO4)2
+Magnesium Hydroxide	Mg(OH)2
+Magnesium Cyanide	Mg(CN)2
+Magnesium Permanganate	Mg(MnO4)2
+Magnesium Hydrogen Carbonate	Mg(HCO3)2
+Magnesium Hypochlorite	Mg(ClO)2
+Magnesium Chlorite	Mg(ClO2)2
+Magnesium Chlorate	Mg(ClO3)2
+Magnesium Perchlorate	Mg(ClO4)2
+Magnesium Bromate	Mg(BrO3)2
+Magnesium Iodate	Mg(IO3)2
+Magnesium Periodate	Mg(IO4)2
+Magnesium Acetate	Mg(C2H3O2)2
+Magnesium Dihydrogen Phosphate	Mg(H2PO4)2
+Magnesium Carbonate	MgCO3
+Magnesium Sulfite	MgSO3
+Magnesium Sulfate	MgSO4
+Magnesium Thiosulfate	MgS2O3
+Magnesium Peroxide	MgO2
+Magnesium Chromate	MgCrO4
+Magnesium Dichromate	MgCr2O7
+Magnesium Hydrogen Phosphate	MgHPO4
+Magnesium Phosphate	Mg3(PO4)2
+Magnesium Arsenate	Mg3(AsO4)2
+Magnesium Nitride	Mg3N2
+Magnesium Phosphide	Mg3P2
+Magnesium Arsenide	Mg3As2
+Magnesium Oxide	MgO
+Magnesium Sulfide	MgS
+Magnesium Selenide	MgSe
+Magnesium Telluride	MgTe
+Magnesium Fluoride	MgF2
+Magnesium Chloride	MgCl2
+Magnesium Bromide	MgBr2
+Magnesium Iodide	MgI2
+Calcium Nitrite	Ca(NO2)2
+Calcium Nitrate	Ca(NO3)2
+Calcium Hydrogen Sulfate	Ca(HSO4)2
+Calcium Hydroxide	Ca(OH)2
+Calcium Cyanide	Ca(CN)2
+Calcium Permanganate	Ca(MnO4)2
+Calcium Hydrogen Carbonate	Ca(HCO3)2
+Calcium Hypochlorite	Ca(ClO)2
+Calcium Chlorite	Ca(ClO2)2
+Calcium Chlorate	Ca(ClO3)2
+Calcium Perchlorate	Ca(ClO4)2
+Calcium Bromate	Ca(BrO3)2
+Calcium Iodate	Ca(IO3)2
+Calcium Periodate	Ca(IO4)2
+Calcium Acetate	Ca(C2H3O2)2
+Calcium Dihydrogen Phosphate	Ca(H2PO4)2
+Calcium Carbonate	CaCO3
+Calcium Sulfite	CaSO3
+Calcium Sulfate	CaSO4
+Calcium Thiosulfate	CaS2O3
+Calcium Peroxide	CaO2
+Calcium Chromate	CaCrO4
+Calcium Dichromate	CaCr2O7
+Calcium Hydrogen Phosphate	CaHPO4
+Calcium Phosphate	Ca3(PO4)2
+Calcium Arsenate	Ca3(AsO4)2
+Calcium Nitride	Ca3N2
+Calcium Phosphide	Ca3P2
+Calcium Arsenide	Ca3As2
+Calcium Oxide	CaO
+Calcium Sulfide	CaS
+Calcium Selenide	CaSe
+Calcium Telluride	CaTe
+Calcium Fluoride	CaF2
+Calcium Chloride	CaCl2
+Calcium Bromide	CaBr2
+Calcium Iodide	CaI2
+Strontium Nitrite	Sr(NO2)2
+Strontium Nitrate	Sr(NO3)2
+Strontium Hydrogen Sulfate	Sr(HSO4)2
+Strontium Hydroxide	Sr(OH)2
+Strontium Cyanide	Sr(CN)2
+Strontium Permanganate	Sr(MnO4)2
+Strontium Hydrogen Carbonate	Sr(HCO3)2
+Strontium Hypochlorite	Sr(ClO)2
+Strontium Chlorite	Sr(ClO2)2
+Strontium Chlorate	Sr(ClO3)2
+Strontium Perchlorate	Sr(ClO4)2
+Strontium Bromate	Sr(BrO3)2
+Strontium Iodate	Sr(IO3)2
+Strontium Periodate	Sr(IO4)2
+Strontium Acetate	Sr(C2H3O2)2
+Strontium Dihydrogen Phosphate	Sr(H2PO4)2
+Strontium Carbonate	SrCO3
+Strontium Sulfite	SrSO3
+Strontium Sulfate	SrSO4
+Strontium Thiosulfate	SrS2O3
+Strontium Peroxide	SrO2
+Strontium Chromate	SrCrO4
+Strontium Dichromate	SrCr2O7
+Strontium Hydrogen Phosphate	SrHPO4
+Strontium Phosphate	Sr3(PO4)2
+Strontium Arsenate	Sr3(AsO4)2
+Strontium Nitride	Sr3N2
+Strontium Phosphide	Sr3P2
+Strontium Arsenide	Sr3As2
+Strontium Oxide	SrO
+Strontium Sulfide	SrS
+Strontium Selenide	SrSe
+Strontium Telluride	SrTe
+Strontium Fluoride	SrF2
+Strontium Chloride	SrCl2
+Strontium Bromide	SrBr2
+Strontium Iodide	SrI2
+Barium Nitrite	Ba(NO2)2
+Barium Nitrate	Ba(NO3)2
+Barium Hydrogen Sulfate	Ba(HSO4)2
+Barium Hydroxide	Ba(OH)2
+Barium Cyanide	Ba(CN)2
+Barium Permanganate	Ba(MnO4)2
+Barium Hydrogen Carbonate	Ba(HCO3)2
+Barium Hypochlorite	Ba(ClO)2
+Barium Chlorite	Ba(ClO2)2
+Barium Chlorate	Ba(ClO3)2
+Barium Perchlorate	Ba(ClO4)2
+Barium Bromate	Ba(BrO3)2
+Barium Iodate	Ba(IO3)2
+Barium Periodate	Ba(IO4)2
+Barium Acetate	Ba(C2H3O2)2
+Barium Dihydrogen Phosphate	Ba(H2PO4)2
+Barium Carbonate	BaCO3
+Barium Sulfite	BaSO3
+Barium Sulfate	BaSO4
+Barium Thiosulfate	BaS2O3
+Barium Peroxide	BaO2
+Barium Chromate	BaCrO4
+Barium Dichromate	BaCr2O7
+Barium Hydrogen Phosphate	BaHPO4
+Barium Phosphate	Ba3(PO4)2
+Barium Arsenate	Ba3(AsO4)2
+Barium Nitride	Ba3N2
+Barium Phosphide	Ba3P2
+Barium Arsenide	Ba3As2
+Barium Oxide	BaO
+Barium Sulfide	BaS
+Barium Selenide	BaSe
+Barium Telluride	BaTe
+Barium Fluoride	BaF2
+Barium Chloride	BaCl2
+Barium Bromide	BaBr2
+Barium Iodide	BaI2
+Scandium Nitrite	Sc(NO2)3
+Scandium Nitrate	Sc(NO3)3
+Scandium Hydrogen Sulfate	Sc(HSO4)3
+Scandium Hydroxide	Sc(OH)3
+Scandium Cyanide	Sc(CN)3
+Scandium Permanganate	Sc(MnO4)3
+Scandium Hydrogen Carbonate	Sc(HCO3)3
+Scandium Hypochlorite	Sc(ClO)3
+Scandium Chlorite	Sc(ClO2)3
+Scandium Chlorate	Sc(ClO3)3
+Scandium Perchlorate	Sc(ClO4)3
+Scandium Bromate	Sc(BrO3)3
+Scandium Iodate	Sc(IO3)3
+Scandium Periodate	Sc(IO4)3
+Scandium Acetate	Sc(C2H3O2)3
+Scandium Dihydrogen Phosphate	Sc(H2PO4)3
+Scandium Carbonate	Sc2(CO3)3
+Scandium Sulfite	Sc2(SO3)3
+Scandium Sulfate	Sc2(SO4)3
+Scandium Thiosulfate	Sc2(S2O3)3
+Scandium Peroxide	Sc2(O2)3
+Scandium Chromate	Sc2(CrO4)3
+Scandium Dichromate	Sc2(Cr2O7)3
+Scandium Hydrogen Phosphate	Sc2(HPO4)3
+Scandium Phosphate	ScPO4
+Scandium Arsenate	ScAsO4
+Scandium Nitride	ScN
+Scandium Phosphide	ScP
+Scandium Arsenide	ScAs
+Scandium Oxide	Sc2O3
+Scandium Sulfide	Sc2S3
+Scandium Selenide	Sc2Se3
+Scandium Telluride	Sc2Te3
+Scandium Fluoride	ScF3
+Scandium Chloride	ScCl3
+Scandium Bromide	ScBr3
+Scandium Iodide	ScI3
+Yttrium Nitrite	Y(NO2)3
+Yttrium Nitrate	Y(NO3)3
+Yttrium Hydrogen Sulfate	Y(HSO4)3
+Yttrium Hydroxide	Y(OH)3
+Yttrium Cyanide	Y(CN)3
+Yttrium Permanganate	Y(MnO4)3
+Yttrium Hydrogen Carbonate	Y(HCO3)3
+Yttrium Hypochlorite	Y(ClO)3
+Yttrium Chlorite	Y(ClO2)3
+Yttrium Chlorate	Y(ClO3)3
+Yttrium Perchlorate	Y(ClO4)3
+Yttrium Bromate	Y(BrO3)3
+Yttrium Iodate	Y(IO3)3
+Yttrium Periodate	Y(IO4)3
+Yttrium Acetate	Y(C2H3O2)3
+Yttrium Dihydrogen Phosphate	Y(H2PO4)3
+Yttrium Carbonate	Y2(CO3)3
+Yttrium Sulfite	Y2(SO3)3
+Yttrium Sulfate	Y2(SO4)3
+Yttrium Thiosulfate	Y2(S2O3)3
+Yttrium Peroxide	Y2(O2)3
+Yttrium Chromate	Y2(CrO4)3
+Yttrium Dichromate	Y2(Cr2O7)3
+Yttrium Hydrogen Phosphate	Y2(HPO4)3
+Yttrium Phosphate	YPO4
+Yttrium Arsenate	YAsO4
+Yttrium Nitride	YN
+Yttrium Phosphide	YP
+Yttrium Arsenide	YAs
+Yttrium Oxide	Y2O3
+Yttrium Sulfide	Y2S3
+Yttrium Selenide	Y2Se3
+Yttrium Telluride	Y2Te3
+Yttrium Fluoride	YF3
+Yttrium Chloride	YCl3
+Yttrium Bromide	YBr3
+Yttrium Iodide	YI3
+Lanthanum Nitrite	La(NO2)3
+Lanthanum Nitrate	La(NO3)3
+Lanthanum Hydrogen Sulfate	La(HSO4)3
+Lanthanum Hydroxide	La(OH)3
+Lanthanum Cyanide	La(CN)3
+Lanthanum Permanganate	La(MnO4)3
+Lanthanum Hydrogen Carbonate	La(HCO3)3
+Lanthanum Hypochlorite	La(ClO)3
+Lanthanum Chlorite	La(ClO2)3
+Lanthanum Chlorate	La(ClO3)3
+Lanthanum Perchlorate	La(ClO4)3
+Lanthanum Bromate	La(BrO3)3
+Lanthanum Iodate	La(IO3)3
+Lanthanum Periodate	La(IO4)3
+Lanthanum Acetate	La(C2H3O2)3
+Lanthanum Dihydrogen Phosphate	La(H2PO4)3
+Lanthanum Carbonate	La2(CO3)3
+Lanthanum Sulfite	La2(SO3)3
+Lanthanum Sulfate	La2(SO4)3
+Lanthanum Thiosulfate	La2(S2O3)3
+Lanthanum Peroxide	La2(O2)3
+Lanthanum Chromate	La2(CrO4)3
+Lanthanum Dichromate	La2(Cr2O7)3
+Lanthanum Hydrogen Phosphate	La2(HPO4)3
+Lanthanum Phosphate	LaPO4
+Lanthanum Arsenate	LaAsO4
+Lanthanum Nitride	LaN
+Lanthanum Phosphide	LaP
+Lanthanum Arsenide	LaAs
+Lanthanum Oxide	La2O3
+Lanthanum Sulfide	La2S3
+Lanthanum Selenide	La2Se3
+Lanthanum Telluride	La2Te3
+Lanthanum Fluoride	LaF3
+Lanthanum Chloride	LaCl3
+Lanthanum Bromide	LaBr3
+Lanthanum Iodide	LaI3
+Titanium (II) Nitrite	Ti(NO2)2
+Titanium (II) Nitrate	Ti(NO3)2
+Titanium (II) Hydrogen Sulfate	Ti(HSO4)2
+Titanium (II) Hydroxide	Ti(OH)2
+Titanium (II) Cyanide	Ti(CN)2
+Titanium (II) Permanganate	Ti(MnO4)2
+Titanium (II) Hydrogen Carbonate	Ti(HCO3)2
+Titanium (II) Hypochlorite	Ti(ClO)2
+Titanium (II) Chlorite	Ti(ClO2)2
+Titanium (II) Chlorate	Ti(ClO3)2
+Titanium (II) Perchlorate	Ti(ClO4)2
+Titanium (II) Bromate	Ti(BrO3)2
+Titanium (II) Iodate	Ti(IO3)2
+Titanium (II) Periodate	Ti(IO4)2
+Titanium (II) Acetate	Ti(C2H3O2)2
+Titanium (II) Dihydrogen Phosphate	Ti(H2PO4)2
+Titanium (II) Carbonate	TiCO3
+Titanium (II) Sulfite	TiSO3
+Titanium (II) Sulfate	TiSO4
+Titanium (II) Thiosulfate	TiS2O3
+Titanium (II) Peroxide	TiO2
+Titanium (II) Chromate	TiCrO4
+Titanium (II) Dichromate	TiCr2O7
+Titanium (II) Hydrogen Phosphate	TiHPO4
+Titanium (II) Phosphate	Ti3(PO4)2
+Titanium (II) Arsenate	Ti3(AsO4)2
+Titanium (II) Nitride	Ti3N2
+Titanium (II) Phosphide	Ti3P2
+Titanium (II) Arsenide	Ti3As2
+Titanium (II) Oxide	TiO
+Titanium (II) Sulfide	TiS
+Titanium (II) Selenide	TiSe
+Titanium (II) Telluride	TiTe
+Titanium (II) Fluoride	TiF2
+Titanium (II) Chloride	TiCl2
+Titanium (II) Bromide	TiBr2
+Titanium (II) Iodide	TiI2
+Titanium (III) Nitrite	Ti(NO2)3
+Titanium (III) Nitrate	Ti(NO3)3
+Titanium (III) Hydrogen Sulfate	Ti(HSO4)3
+Titanium (III) Hydroxide	Ti(OH)3
+Titanium (III) Cyanide	Ti(CN)3
+Titanium (III) Permanganate	Ti(MnO4)3
+Titanium (III) Hydrogen Carbonate	Ti(HCO3)3
+Titanium (III) Hypochlorite	Ti(ClO)3
+Titanium (III) Chlorite	Ti(ClO2)3
+Titanium (III) Chlorate	Ti(ClO3)3
+Titanium (III) Perchlorate	Ti(ClO4)3
+Titanium (III) Bromate	Ti(BrO3)3
+Titanium (III) Iodate	Ti(IO3)3
+Titanium (III) Periodate	Ti(IO4)3
+Titanium (III) Acetate	Ti(C2H3O2)3
+Titanium (III) Dihydrogen Phosphate	Ti(H2PO4)3
+Titanium (III) Carbonate	Ti2(CO3)3
+Titanium (III) Sulfite	Ti2(SO3)3
+Titanium (III) Sulfate	Ti2(SO4)3
+Titanium (III) Thiosulfate	Ti2(S2O3)3
+Titanium (III) Peroxide	Ti2(O2)3
+Titanium (III) Chromate	Ti2(CrO4)3
+Titanium (III) Dichromate	Ti2(Cr2O7)3
+Titanium (III) Hydrogen Phosphate	Ti2(HPO4)3
+Titanium (III) Phosphate	TiPO4
+Titanium (III) Arsenate	TiAsO4
+Titanium (III) Nitride	TiN
+Titanium (III) Phosphide	TiP
+Titanium (III) Arsenide	TiAs
+Titanium (III) Oxide	Ti2O3
+Titanium (III) Sulfide	Ti2S3
+Titanium (III) Selenide	Ti2Se3
+Titanium (III) Telluride	Ti2Te3
+Titanium (III) Fluoride	TiF3
+Titanium (III) Chloride	TiCl3
+Titanium (III) Bromide	TiBr3
+Titanium (III) Iodide	TiI3
+Vanadium (II) Nitrite	V(NO2)2
+Vanadium (II) Nitrate	V(NO3)2
+Vanadium (II) Hydrogen Sulfate	V(HSO4)2
+Vanadium (II) Hydroxide	V(OH)2
+Vanadium (II) Cyanide	V(CN)2
+Vanadium (II) Permanganate	V(MnO4)2
+Vanadium (II) Hydrogen Carbonate	V(HCO3)2
+Vanadium (II) Hypochlorite	V(ClO)2
+Vanadium (II) Chlorite	V(ClO2)2
+Vanadium (II) Chlorate	V(ClO3)2
+Vanadium (II) Perchlorate	V(ClO4)2
+Vanadium (II) Bromate	V(BrO3)2
+Vanadium (II) Iodate	V(IO3)2
+Vanadium (II) Periodate	V(IO4)2
+Vanadium (II) Acetate	V(C2H3O2)2
+Vanadium (II) Dihydrogen Phosphate	V(H2PO4)2
+Vanadium (II) Carbonate	VCO3
+Vanadium (II) Sulfite	VSO3
+Vanadium (II) Sulfate	VSO4
+Vanadium (II) Thiosulfate	VS2O3
+Vanadium (II) Peroxide	VO2
+Vanadium (II) Chromate	VCrO4
+Vanadium (II) Dichromate	VCr2O7
+Vanadium (II) Hydrogen Phosphate	VHPO4
+Vanadium (II) Phosphate	V3(PO4)2
+Vanadium (II) Arsenate	V3(AsO4)2
+Vanadium (II) Nitride	V3N2
+Vanadium (II) Phosphide	V3P2
+Vanadium (II) Arsenide	V3As2
+Vanadium (II) Oxide	VO
+Vanadium (II) Sulfide	VS
+Vanadium (II) Selenide	VSe
+Vanadium (II) Telluride	VTe
+Vanadium (II) Fluoride	VF2
+Vanadium (II) Chloride	VCl2
+Vanadium (II) Bromide	VBr2
+Vanadium (II) Iodide	VI2
+Vanadium (III) Nitrite	V(NO2)3
+Vanadium (III) Nitrate	V(NO3)3
+Vanadium (III) Hydrogen Sulfate	V(HSO4)3
+Vanadium (III) Hydroxide	V(OH)3
+Vanadium (III) Cyanide	V(CN)3
+Vanadium (III) Permanganate	V(MnO4)3
+Vanadium (III) Hydrogen Carbonate	V(HCO3)3
+Vanadium (III) Hypochlorite	V(ClO)3
+Vanadium (III) Chlorite	V(ClO2)3
+Vanadium (III) Chlorate	V(ClO3)3
+Vanadium (III) Perchlorate	V(ClO4)3
+Vanadium (III) Bromate	V(BrO3)3
+Vanadium (III) Iodate	V(IO3)3
+Vanadium (III) Periodate	V(IO4)3
+Vanadium (III) Acetate	V(C2H3O2)3
+Vanadium (III) Dihydrogen Phosphate	V(H2PO4)3
+Vanadium (III) Carbonate	V2(CO3)3
+Vanadium (III) Sulfite	V2(SO3)3
+Vanadium (III) Sulfate	V2(SO4)3
+Vanadium (III) Thiosulfate	V2(S2O3)3
+Vanadium (III) Peroxide	V2(O2)3
+Vanadium (III) Chromate	V2(CrO4)3
+Vanadium (III) Dichromate	V2(Cr2O7)3
+Vanadium (III) Hydrogen Phosphate	V2(HPO4)3
+Vanadium (III) Phosphate	VPO4
+Vanadium (III) Arsenate	VAsO4
+Vanadium (III) Nitride	VN
+Vanadium (III) Phosphide	VP
+Vanadium (III) Arsenide	VAs
+Vanadium (III) Oxide	V2O3
+Vanadium (III) Sulfide	V2S3
+Vanadium (III) Selenide	V2Se3
+Vanadium (III) Telluride	V2Te3
+Vanadium (III) Fluoride	VF3
+Vanadium (III) Chloride	VCl3
+Vanadium (III) Bromide	VBr3
+Vanadium (III) Iodide	VI3
+Chromium (II) Nitrite	Cr(NO2)2
+Chromium (II) Nitrate	Cr(NO3)2
+Chromium (II) Hydrogen Sulfate	Cr(HSO4)2
+Chromium (II) Hydroxide	Cr(OH)2
+Chromium (II) Cyanide	Cr(CN)2
+Chromium (II) Permanganate	Cr(MnO4)2
+Chromium (II) Hydrogen Carbonate	Cr(HCO3)2
+Chromium (II) Hypochlorite	Cr(ClO)2
+Chromium (II) Chlorite	Cr(ClO2)2
+Chromium (II) Chlorate	Cr(ClO3)2
+Chromium (II) Perchlorate	Cr(ClO4)2
+Chromium (II) Bromate	Cr(BrO3)2
+Chromium (II) Iodate	Cr(IO3)2
+Chromium (II) Periodate	Cr(IO4)2
+Chromium (II) Acetate	Cr(C2H3O2)2
+Chromium (II) Dihydrogen Phosphate	Cr(H2PO4)2
+Chromium (II) Carbonate	CrCO3
+Chromium (II) Sulfite	CrSO3
+Chromium (II) Sulfate	CrSO4
+Chromium (II) Thiosulfate	CrS2O3
+Chromium (II) Peroxide	CrO2
+Chromium (II) Chromate	CrCrO4
+Chromium (II) Dichromate	CrCr2O7
+Chromium (II) Hydrogen Phosphate	CrHPO4
+Chromium (II) Phosphate	Cr3(PO4)2
+Chromium (II) Arsenate	Cr3(AsO4)2
+Chromium (II) Nitride	Cr3N2
+Chromium (II) Phosphide	Cr3P2
+Chromium (II) Arsenide	Cr3As2
+Chromium (II) Oxide	CrO
+Chromium (II) Sulfide	CrS
+Chromium (II) Selenide	CrSe
+Chromium (II) Telluride	CrTe
+Chromium (II) Fluoride	CrF2
+Chromium (II) Chloride	CrCl2
+Chromium (II) Bromide	CrBr2
+Chromium (II) Iodide	CrI2
+Chromium (III) Nitrite	Cr(NO2)3
+Chromium (III) Nitrate	Cr(NO3)3
+Chromium (III) Hydrogen Sulfate	Cr(HSO4)3
+Chromium (III) Hydroxide	Cr(OH)3
+Chromium (III) Cyanide	Cr(CN)3
+Chromium (III) Permanganate	Cr(MnO4)3
+Chromium (III) Hydrogen Carbonate	Cr(HCO3)3
+Chromium (III) Hypochlorite	Cr(ClO)3
+Chromium (III) Chlorite	Cr(ClO2)3
+Chromium (III) Chlorate	Cr(ClO3)3
+Chromium (III) Perchlorate	Cr(ClO4)3
+Chromium (III) Bromate	Cr(BrO3)3
+Chromium (III) Iodate	Cr(IO3)3
+Chromium (III) Periodate	Cr(IO4)3
+Chromium (III) Acetate	Cr(C2H3O2)3
+Chromium (III) Dihydrogen Phosphate	Cr(H2PO4)3
+Chromium (III) Carbonate	Cr2(CO3)3
+Chromium (III) Sulfite	Cr2(SO3)3
+Chromium (III) Sulfate	Cr2(SO4)3
+Chromium (III) Thiosulfate	Cr2(S2O3)3
+Chromium (III) Peroxide	Cr2(O2)3
+Chromium (III) Chromate	Cr2(CrO4)3
+Chromium (III) Dichromate	Cr2(Cr2O7)3
+Chromium (III) Hydrogen Phosphate	Cr2(HPO4)3
+Chromium (III) Phosphate	CrPO4
+Chromium (III) Arsenate	CrAsO4
+Chromium (III) Nitride	CrN
+Chromium (III) Phosphide	CrP
+Chromium (III) Arsenide	CrAs
+Chromium (III) Oxide	Cr2O3
+Chromium (III) Sulfide	Cr2S3
+Chromium (III) Selenide	Cr2Se3
+Chromium (III) Telluride	Cr2Te3
+Chromium (III) Fluoride	CrF3
+Chromium (III) Chloride	CrCl3
+Chromium (III) Bromide	CrBr3
+Chromium (III) Iodide	CrI3
+Manganese (II) Nitrite	Mn(NO2)2
+Manganese (II) Nitrate	Mn(NO3)2
+Manganese (II) Hydrogen Sulfate	Mn(HSO4)2
+Manganese (II) Hydroxide	Mn(OH)2
+Manganese (II) Cyanide	Mn(CN)2
+Manganese (II) Permanganate	Mn(MnO4)2
+Manganese (II) Hydrogen Carbonate	Mn(HCO3)2
+Manganese (II) Hypochlorite	Mn(ClO)2
+Manganese (II) Chlorite	Mn(ClO2)2
+Manganese (II) Chlorate	Mn(ClO3)2
+Manganese (II) Perchlorate	Mn(ClO4)2
+Manganese (II) Bromate	Mn(BrO3)2
+Manganese (II) Iodate	Mn(IO3)2
+Manganese (II) Periodate	Mn(IO4)2
+Manganese (II) Acetate	Mn(C2H3O2)2
+Manganese (II) Dihydrogen Phosphate	Mn(H2PO4)2
+Manganese (II) Carbonate	MnCO3
+Manganese (II) Sulfite	MnSO3
+Manganese (II) Sulfate	MnSO4
+Manganese (II) Thiosulfate	MnS2O3
+Manganese (II) Peroxide	MnO2
+Manganese (II) Chromate	MnCrO4
+Manganese (II) Dichromate	MnCr2O7
+Manganese (II) Hydrogen Phosphate	MnHPO4
+Manganese (II) Phosphate	Mn3(PO4)2
+Manganese (II) Arsenate	Mn3(AsO4)2
+Manganese (II) Nitride	Mn3N2
+Manganese (II) Phosphide	Mn3P2
+Manganese (II) Arsenide	Mn3As2
+Manganese (II) Oxide	MnO
+Manganese (II) Sulfide	MnS
+Manganese (II) Selenide	MnSe
+Manganese (II) Telluride	MnTe
+Manganese (II) Fluoride	MnF2
+Manganese (II) Chloride	MnCl2
+Manganese (II) Bromide	MnBr2
+Manganese (II) Iodide	MnI2
+Manganese (III) Nitrite	Mn(NO2)3
+Manganese (III) Nitrate	Mn(NO3)3
+Manganese (III) Hydrogen Sulfate	Mn(HSO4)3
+Manganese (III) Hydroxide	Mn(OH)3
+Manganese (III) Cyanide	Mn(CN)3
+Manganese (III) Permanganate	Mn(MnO4)3
+Manganese (III) Hydrogen Carbonate	Mn(HCO3)3
+Manganese (III) Hypochlorite	Mn(ClO)3
+Manganese (III) Chlorite	Mn(ClO2)3
+Manganese (III) Chlorate	Mn(ClO3)3
+Manganese (III) Perchlorate	Mn(ClO4)3
+Manganese (III) Bromate	Mn(BrO3)3
+Manganese (III) Iodate	Mn(IO3)3
+Manganese (III) Periodate	Mn(IO4)3
+Manganese (III) Acetate	Mn(C2H3O2)3
+Manganese (III) Dihydrogen Phosphate	Mn(H2PO4)3
+Manganese (III) Carbonate	Mn2(CO3)3
+Manganese (III) Sulfite	Mn2(SO3)3
+Manganese (III) Sulfate	Mn2(SO4)3
+Manganese (III) Thiosulfate	Mn2(S2O3)3
+Manganese (III) Peroxide	Mn2(O2)3
+Manganese (III) Chromate	Mn2(CrO4)3
+Manganese (III) Dichromate	Mn2(Cr2O7)3
+Manganese (III) Hydrogen Phosphate	Mn2(HPO4)3
+Manganese (III) Phosphate	MnPO4
+Manganese (III) Arsenate	MnAsO4
+Manganese (III) Nitride	MnN
+Manganese (III) Phosphide	MnP
+Manganese (III) Arsenide	MnAs
+Manganese (III) Oxide	Mn2O3
+Manganese (III) Sulfide	Mn2S3
+Manganese (III) Selenide	Mn2Se3
+Manganese (III) Telluride	Mn2Te3
+Manganese (III) Fluoride	MnF3
+Manganese (III) Chloride	MnCl3
+Manganese (III) Bromide	MnBr3
+Manganese (III) Iodide	MnI3
+Technetium (II) Nitrite	Tc(NO2)2
+Technetium (II) Nitrate	Tc(NO3)2
+Technetium (II) Hydrogen Sulfate	Tc(HSO4)2
+Technetium (II) Hydroxide	Tc(OH)2
+Technetium (II) Cyanide	Tc(CN)2
+Technetium (II) Permanganate	Tc(MnO4)2
+Technetium (II) Hydrogen Carbonate	Tc(HCO3)2
+Technetium (II) Hypochlorite	Tc(ClO)2
+Technetium (II) Chlorite	Tc(ClO2)2
+Technetium (II) Chlorate	Tc(ClO3)2
+Technetium (II) Perchlorate	Tc(ClO4)2
+Technetium (II) Bromate	Tc(BrO3)2
+Technetium (II) Iodate	Tc(IO3)2
+Technetium (II) Periodate	Tc(IO4)2
+Technetium (II) Acetate	Tc(C2H3O2)2
+Technetium (II) Dihydrogen Phosphate	Tc(H2PO4)2
+Technetium (II) Carbonate	TcCO3
+Technetium (II) Sulfite	TcSO3
+Technetium (II) Sulfate	TcSO4
+Technetium (II) Thiosulfate	TcS2O3
+Technetium (II) Peroxide	TcO2
+Technetium (II) Chromate	TcCrO4
+Technetium (II) Dichromate	TcCr2O7
+Technetium (II) Hydrogen Phosphate	TcHPO4
+Technetium (II) Phosphate	Tc3(PO4)2
+Technetium (II) Arsenate	Tc3(AsO4)2
+Technetium (II) Nitride	Tc3N2
+Technetium (II) Phosphide	Tc3P2
+Technetium (II) Arsenide	Tc3As2
+Technetium (II) Oxide	TcO
+Technetium (II) Sulfide	TcS
+Technetium (II) Selenide	TcSe
+Technetium (II) Telluride	TcTe
+Technetium (II) Fluoride	TcF2
+Technetium (II) Chloride	TcCl2
+Technetium (II) Bromide	TcBr2
+Technetium (II) Iodide	TcI2
+Iron (II) Nitrite	Fe(NO2)2
+Iron (II) Nitrate	Fe(NO3)2
+Iron (II) Hydrogen Sulfate	Fe(HSO4)2
+Iron (II) Hydroxide	Fe(OH)2
+Iron (II) Cyanide	Fe(CN)2
+Iron (II) Permanganate	Fe(MnO4)2
+Iron (II) Hydrogen Carbonate	Fe(HCO3)2
+Iron (II) Hypochlorite	Fe(ClO)2
+Iron (II) Chlorite	Fe(ClO2)2
+Iron (II) Chlorate	Fe(ClO3)2
+Iron (II) Perchlorate	Fe(ClO4)2
+Iron (II) Bromate	Fe(BrO3)2
+Iron (II) Iodate	Fe(IO3)2
+Iron (II) Periodate	Fe(IO4)2
+Iron (II) Acetate	Fe(C2H3O2)2
+Iron (II) Dihydrogen Phosphate	Fe(H2PO4)2
+Iron (II) Carbonate	FeCO3
+Iron (II) Sulfite	FeSO3
+Iron (II) Sulfate	FeSO4
+Iron (II) Thiosulfate	FeS2O3
+Iron (II) Peroxide	FeO2
+Iron (II) Chromate	FeCrO4
+Iron (II) Dichromate	FeCr2O7
+Iron (II) Hydrogen Phosphate	FeHPO4
+Iron (II) Phosphate	Fe3(PO4)2
+Iron (II) Arsenate	Fe3(AsO4)2
+Iron (II) Nitride	Fe3N2
+Iron (II) Phosphide	Fe3P2
+Iron (II) Arsenide	Fe3As2
+Iron (II) Oxide	FeO
+Iron (II) Sulfide	FeS
+Iron (II) Selenide	FeSe
+Iron (II) Telluride	FeTe
+Iron (II) Fluoride	FeF2
+Iron (II) Chloride	FeCl2
+Iron (II) Bromide	FeBr2
+Iron (II) Iodide	FeI2
+Iron (III) Nitrite	Fe(NO2)3
+Iron (III) Nitrate	Fe(NO3)3
+Iron (III) Hydrogen Sulfate	Fe(HSO4)3
+Iron (III) Hydroxide	Fe(OH)3
+Iron (III) Cyanide	Fe(CN)3
+Iron (III) Permanganate	Fe(MnO4)3
+Iron (III) Hydrogen Carbonate	Fe(HCO3)3
+Iron (III) Hypochlorite	Fe(ClO)3
+Iron (III) Chlorite	Fe(ClO2)3
+Iron (III) Chlorate	Fe(ClO3)3
+Iron (III) Perchlorate	Fe(ClO4)3
+Iron (III) Bromate	Fe(BrO3)3
+Iron (III) Iodate	Fe(IO3)3
+Iron (III) Periodate	Fe(IO4)3
+Iron (III) Acetate	Fe(C2H3O2)3
+Iron (III) Dihydrogen Phosphate	Fe(H2PO4)3
+Iron (III) Carbonate	Fe2(CO3)3
+Iron (III) Sulfite	Fe2(SO3)3
+Iron (III) Sulfate	Fe2(SO4)3
+Iron (III) Thiosulfate	Fe2(S2O3)3
+Iron (III) Peroxide	Fe2(O2)3
+Iron (III) Chromate	Fe2(CrO4)3
+Iron (III) Dichromate	Fe2(Cr2O7)3
+Iron (III) Hydrogen Phosphate	Fe2(HPO4)3
+Iron (III) Phosphate	FePO4
+Iron (III) Arsenate	FeAsO4
+Iron (III) Nitride	FeN
+Iron (III) Phosphide	FeP
+Iron (III) Arsenide	FeAs
+Iron (III) Oxide	Fe2O3
+Iron (III) Sulfide	Fe2S3
+Iron (III) Selenide	Fe2Se3
+Iron (III) Telluride	Fe2Te3
+Iron (III) Fluoride	FeF3
+Iron (III) Chloride	FeCl3
+Iron (III) Bromide	FeBr3
+Iron (III) Iodide	FeI3
+Cobalt (II) Nitrite	Co(NO2)2
+Cobalt (II) Nitrate	Co(NO3)2
+Cobalt (II) Hydrogen Sulfate	Co(HSO4)2
+Cobalt (II) Hydroxide	Co(OH)2
+Cobalt (II) Cyanide	Co(CN)2
+Cobalt (II) Permanganate	Co(MnO4)2
+Cobalt (II) Hydrogen Carbonate	Co(HCO3)2
+Cobalt (II) Hypochlorite	Co(ClO)2
+Cobalt (II) Chlorite	Co(ClO2)2
+Cobalt (II) Chlorate	Co(ClO3)2
+Cobalt (II) Perchlorate	Co(ClO4)2
+Cobalt (II) Bromate	Co(BrO3)2
+Cobalt (II) Iodate	Co(IO3)2
+Cobalt (II) Periodate	Co(IO4)2
+Cobalt (II) Acetate	Co(C2H3O2)2
+Cobalt (II) Dihydrogen Phosphate	Co(H2PO4)2
+Cobalt (II) Carbonate	CoCO3
+Cobalt (II) Sulfite	CoSO3
+Cobalt (II) Sulfate	CoSO4
+Cobalt (II) Thiosulfate	CoS2O3
+Cobalt (II) Peroxide	CoO2
+Cobalt (II) Chromate	CoCrO4
+Cobalt (II) Dichromate	CoCr2O7
+Cobalt (II) Hydrogen Phosphate	CoHPO4
+Cobalt (II) Phosphate	Co3(PO4)2
+Cobalt (II) Arsenate	Co3(AsO4)2
+Cobalt (II) Nitride	Co3N2
+Cobalt (II) Phosphide	Co3P2
+Cobalt (II) Arsenide	Co3As2
+Cobalt (II) Oxide	CoO
+Cobalt (II) Sulfide	CoS
+Cobalt (II) Selenide	CoSe
+Cobalt (II) Telluride	CoTe
+Cobalt (II) Fluoride	CoF2
+Cobalt (II) Chloride	CoCl2
+Cobalt (II) Bromide	CoBr2
+Cobalt (II) Iodide	CoI2
+Cobalt (III) Nitrite	Co(NO2)3
+Cobalt (III) Nitrate	Co(NO3)3
+Cobalt (III) Hydrogen Sulfate	Co(HSO4)3
+Cobalt (III) Hydroxide	Co(OH)3
+Cobalt (III) Cyanide	Co(CN)3
+Cobalt (III) Permanganate	Co(MnO4)3
+Cobalt (III) Hydrogen Carbonate	Co(HCO3)3
+Cobalt (III) Hypochlorite	Co(ClO)3
+Cobalt (III) Chlorite	Co(ClO2)3
+Cobalt (III) Chlorate	Co(ClO3)3
+Cobalt (III) Perchlorate	Co(ClO4)3
+Cobalt (III) Bromate	Co(BrO3)3
+Cobalt (III) Iodate	Co(IO3)3
+Cobalt (III) Periodate	Co(IO4)3
+Cobalt (III) Acetate	Co(C2H3O2)3
+Cobalt (III) Dihydrogen Phosphate	Co(H2PO4)3
+Cobalt (III) Carbonate	Co2(CO3)3
+Cobalt (III) Sulfite	Co2(SO3)3
+Cobalt (III) Sulfate	Co2(SO4)3
+Cobalt (III) Thiosulfate	Co2(S2O3)3
+Cobalt (III) Peroxide	Co2(O2)3
+Cobalt (III) Chromate	Co2(CrO4)3
+Cobalt (III) Dichromate	Co2(Cr2O7)3
+Cobalt (III) Hydrogen Phosphate	Co2(HPO4)3
+Cobalt (III) Phosphate	CoPO4
+Cobalt (III) Arsenate	CoAsO4
+Cobalt (III) Nitride	CoN
+Cobalt (III) Phosphide	CoP
+Cobalt (III) Arsenide	CoAs
+Cobalt (III) Oxide	Co2O3
+Cobalt (III) Sulfide	Co2S3
+Cobalt (III) Selenide	Co2Se3
+Cobalt (III) Telluride	Co2Te3
+Cobalt (III) Fluoride	CoF3
+Cobalt (III) Chloride	CoCl3
+Cobalt (III) Bromide	CoBr3
+Cobalt (III) Iodide	CoI3
+Nickel (II) Nitrite	Ni(NO2)2
+Nickel (II) Nitrate	Ni(NO3)2
+Nickel (II) Hydrogen Sulfate	Ni(HSO4)2
+Nickel (II) Hydroxide	Ni(OH)2
+Nickel (II) Cyanide	Ni(CN)2
+Nickel (II) Permanganate	Ni(MnO4)2
+Nickel (II) Hydrogen Carbonate	Ni(HCO3)2
+Nickel (II) Hypochlorite	Ni(ClO)2
+Nickel (II) Chlorite	Ni(ClO2)2
+Nickel (II) Chlorate	Ni(ClO3)2
+Nickel (II) Perchlorate	Ni(ClO4)2
+Nickel (II) Bromate	Ni(BrO3)2
+Nickel (II) Iodate	Ni(IO3)2
+Nickel (II) Periodate	Ni(IO4)2
+Nickel (II) Acetate	Ni(C2H3O2)2
+Nickel (II) Dihydrogen Phosphate	Ni(H2PO4)2
+Nickel (II) Carbonate	NiCO3
+Nickel (II) Sulfite	NiSO3
+Nickel (II) Sulfate	NiSO4
+Nickel (II) Thiosulfate	NiS2O3
+Nickel (II) Peroxide	NiO2
+Nickel (II) Chromate	NiCrO4
+Nickel (II) Dichromate	NiCr2O7
+Nickel (II) Hydrogen Phosphate	NiHPO4
+Nickel (II) Phosphate	Ni3(PO4)2
+Nickel (II) Arsenate	Ni3(AsO4)2
+Nickel (II) Nitride	Ni3N2
+Nickel (II) Phosphide	Ni3P2
+Nickel (II) Arsenide	Ni3As2
+Nickel (II) Oxide	NiO
+Nickel (II) Sulfide	NiS
+Nickel (II) Selenide	NiSe
+Nickel (II) Telluride	NiTe
+Nickel (II) Fluoride	NiF2
+Nickel (II) Chloride	NiCl2
+Nickel (II) Bromide	NiBr2
+Nickel (II) Iodide	NiI2
+Palladium (II) Nitrite	Pd(NO2)2
+Palladium (II) Nitrate	Pd(NO3)2
+Palladium (II) Hydrogen Sulfate	Pd(HSO4)2
+Palladium (II) Hydroxide	Pd(OH)2
+Palladium (II) Cyanide	Pd(CN)2
+Palladium (II) Permanganate	Pd(MnO4)2
+Palladium (II) Hydrogen Carbonate	Pd(HCO3)2
+Palladium (II) Hypochlorite	Pd(ClO)2
+Palladium (II) Chlorite	Pd(ClO2)2
+Palladium (II) Chlorate	Pd(ClO3)2
+Palladium (II) Perchlorate	Pd(ClO4)2
+Palladium (II) Bromate	Pd(BrO3)2
+Palladium (II) Iodate	Pd(IO3)2
+Palladium (II) Periodate	Pd(IO4)2
+Palladium (II) Acetate	Pd(C2H3O2)2
+Palladium (II) Dihydrogen Phosphate	Pd(H2PO4)2
+Palladium (II) Carbonate	PdCO3
+Palladium (II) Sulfite	PdSO3
+Palladium (II) Sulfate	PdSO4
+Palladium (II) Thiosulfate	PdS2O3
+Palladium (II) Peroxide	PdO2
+Palladium (II) Chromate	PdCrO4
+Palladium (II) Dichromate	PdCr2O7
+Palladium (II) Hydrogen Phosphate	PdHPO4
+Palladium (II) Phosphate	Pd3(PO4)2
+Palladium (II) Arsenate	Pd3(AsO4)2
+Palladium (II) Nitride	Pd3N2
+Palladium (II) Phosphide	Pd3P2
+Palladium (II) Arsenide	Pd3As2
+Palladium (II) Oxide	PdO
+Palladium (II) Sulfide	PdS
+Palladium (II) Selenide	PdSe
+Palladium (II) Telluride	PdTe
+Palladium (II) Fluoride	PdF2
+Palladium (II) Chloride	PdCl2
+Palladium (II) Bromide	PdBr2
+Palladium (II) Iodide	PdI2
+Platinum (II) Nitrite	Pt(NO2)2
+Platinum (II) Nitrate	Pt(NO3)2
+Platinum (II) Hydrogen Sulfate	Pt(HSO4)2
+Platinum (II) Hydroxide	Pt(OH)2
+Platinum (II) Cyanide	Pt(CN)2
+Platinum (II) Permanganate	Pt(MnO4)2
+Platinum (II) Hydrogen Carbonate	Pt(HCO3)2
+Platinum (II) Hypochlorite	Pt(ClO)2
+Platinum (II) Chlorite	Pt(ClO2)2
+Platinum (II) Chlorate	Pt(ClO3)2
+Platinum (II) Perchlorate	Pt(ClO4)2
+Platinum (II) Bromate	Pt(BrO3)2
+Platinum (II) Iodate	Pt(IO3)2
+Platinum (II) Periodate	Pt(IO4)2
+Platinum (II) Acetate	Pt(C2H3O2)2
+Platinum (II) Dihydrogen Phosphate	Pt(H2PO4)2
+Platinum (II) Carbonate	PtCO3
+Platinum (II) Sulfite	PtSO3
+Platinum (II) Sulfate	PtSO4
+Platinum (II) Thiosulfate	PtS2O3
+Platinum (II) Peroxide	PtO2
+Platinum (II) Chromate	PtCrO4
+Platinum (II) Dichromate	PtCr2O7
+Platinum (II) Hydrogen Phosphate	PtHPO4
+Platinum (II) Phosphate	Pt3(PO4)2
+Platinum (II) Arsenate	Pt3(AsO4)2
+Platinum (II) Nitride	Pt3N2
+Platinum (II) Phosphide	Pt3P2
+Platinum (II) Arsenide	Pt3As2
+Platinum (II) Oxide	PtO
+Platinum (II) Sulfide	PtS
+Platinum (II) Selenide	PtSe
+Platinum (II) Telluride	PtTe
+Platinum (II) Fluoride	PtF2
+Platinum (II) Chloride	PtCl2
+Platinum (II) Bromide	PtBr2
+Platinum (II) Iodide	PtI2
+Platinum (IV) Nitrite	Pt(NO2)4
+Platinum (IV) Nitrate	Pt(NO3)4
+Platinum (IV) Hydrogen Sulfate	Pt(HSO4)4
+Platinum (IV) Hydroxide	Pt(OH)4
+Platinum (IV) Cyanide	Pt(CN)4
+Platinum (IV) Permanganate	Pt(MnO4)4
+Platinum (IV) Hydrogen Carbonate	Pt(HCO3)4
+Platinum (IV) Hypochlorite	Pt(ClO)4
+Platinum (IV) Chlorite	Pt(ClO2)4
+Platinum (IV) Chlorate	Pt(ClO3)4
+Platinum (IV) Perchlorate	Pt(ClO4)4
+Platinum (IV) Bromate	Pt(BrO3)4
+Platinum (IV) Iodate	Pt(IO3)4
+Platinum (IV) Periodate	Pt(IO4)4
+Platinum (IV) Acetate	Pt(C2H3O2)4
+Platinum (IV) Dihydrogen Phosphate	Pt(H2PO4)4
+Platinum (IV) Carbonate	Pt(CO3)2
+Platinum (IV) Sulfite	Pt(SO3)2
+Platinum (IV) Sulfate	Pt(SO4)2
+Platinum (IV) Thiosulfate	Pt(S2O3)2
+Platinum (IV) Peroxide	Pt(O2)2
+Platinum (IV) Chromate	Pt(CrO4)2
+Platinum (IV) Dichromate	Pt(Cr2O7)2
+Platinum (IV) Hydrogen Phosphate	Pt(HPO4)2
+Platinum (IV) Phosphate	Pt3(PO4)4
+Platinum (IV) Arsenate	Pt3(AsO4)4
+Platinum (IV) Nitride	Pt3N4
+Platinum (IV) Phosphide	Pt3P4
+Platinum (IV) Arsenide	Pt3As4
+Platinum (IV) Oxide	PtO2
+Platinum (IV) Sulfide	PtS2
+Platinum (IV) Selenide	PtSe2
+Platinum (IV) Telluride	PtTe2
+Platinum (IV) Fluoride	PtF4
+Platinum (IV) Chloride	PtCl4
+Platinum (IV) Bromide	PtBr4
+Platinum (IV) Iodide	PtI4
+Copper (I) Nitrite	CuNO2
+Copper (I) Nitrate	CuNO3
+Copper (I) Hydrogen Sulfate	CuHSO4
+Copper (I) Hydroxide	CuOH
+Copper (I) Cyanide	CuCN
+Copper (I) Permanganate	CuMnO4
+Copper (I) Hydrogen Carbonate	CuHCO3
+Copper (I) Hypochlorite	CuClO
+Copper (I) Chlorite	CuClO2
+Copper (I) Chlorate	CuClO3
+Copper (I) Perchlorate	CuClO4
+Copper (I) Bromate	CuBrO3
+Copper (I) Iodate	CuIO3
+Copper (I) Periodate	CuIO4
+Copper (I) Acetate	CuC2H3O2
+Copper (I) Dihydrogen Phosphate	CuH2PO4
+Copper (I) Carbonate	Cu2CO3
+Copper (I) Sulfite	Cu2SO3
+Copper (I) Sulfate	Cu2SO4
+Copper (I) Thiosulfate	Cu2S2O3
+Copper (I) Peroxide	Cu2O2
+Copper (I) Chromate	Cu2CrO4
+Copper (I) Dichromate	Cu2Cr2O7
+Copper (I) Hydrogen Phosphate	Cu2HPO4
+Copper (I) Phosphate	Cu3PO4
+Copper (I) Arsenate	Cu3AsO4
+Copper (I) Nitride	Cu3N
+Copper (I) Phosphide	Cu3P
+Copper (I) Arsenide	Cu3As
+Copper (I) Oxide	Cu2O
+Copper (I) Sulfide	Cu2S
+Copper (I) Selenide	Cu2Se
+Copper (I) Telluride	Cu2Te
+Copper (I) Fluoride	CuF
+Copper (I) Chloride	CuCl
+Copper (I) Bromide	CuBr
+Copper (I) Iodide	CuI
+Copper (II) Nitrite	Cu(NO2)2
+Copper (II) Nitrate	Cu(NO3)2
+Copper (II) Hydrogen Sulfate	Cu(HSO4)2
+Copper (II) Hydroxide	Cu(OH)2
+Copper (II) Cyanide	Cu(CN)2
+Copper (II) Permanganate	Cu(MnO4)2
+Copper (II) Hydrogen Carbonate	Cu(HCO3)2
+Copper (II) Hypochlorite	Cu(ClO)2
+Copper (II) Chlorite	Cu(ClO2)2
+Copper (II) Chlorate	Cu(ClO3)2
+Copper (II) Perchlorate	Cu(ClO4)2
+Copper (II) Bromate	Cu(BrO3)2
+Copper (II) Iodate	Cu(IO3)2
+Copper (II) Periodate	Cu(IO4)2
+Copper (II) Acetate	Cu(C2H3O2)2
+Copper (II) Dihydrogen Phosphate	Cu(H2PO4)2
+Copper (II) Carbonate	CuCO3
+Copper (II) Sulfite	CuSO3
+Copper (II) Sulfate	CuSO4
+Copper (II) Thiosulfate	CuS2O3
+Copper (II) Peroxide	CuO2
+Copper (II) Chromate	CuCrO4
+Copper (II) Dichromate	CuCr2O7
+Copper (II) Hydrogen Phosphate	CuHPO4
+Copper (II) Phosphate	Cu3(PO4)2
+Copper (II) Arsenate	Cu3(AsO4)2
+Copper (II) Nitride	Cu3N2
+Copper (II) Phosphide	Cu3P2
+Copper (II) Arsenide	Cu3As2
+Copper (II) Oxide	CuO
+Copper (II) Sulfide	CuS
+Copper (II) Selenide	CuSe
+Copper (II) Telluride	CuTe
+Copper (II) Fluoride	CuF2
+Copper (II) Chloride	CuCl2
+Copper (II) Bromide	CuBr2
+Copper (II) Iodide	CuI2
+Silver Nitrite	AgNO2
+Silver Nitrate	AgNO3
+Silver Hydrogen Sulfate	AgHSO4
+Silver Hydroxide	AgOH
+Silver Cyanide	AgCN
+Silver Permanganate	AgMnO4
+Silver Hydrogen Carbonate	AgHCO3
+Silver Hypochlorite	AgClO
+Silver Chlorite	AgClO2
+Silver Chlorate	AgClO3
+Silver Perchlorate	AgClO4
+Silver Bromate	AgBrO3
+Silver Iodate	AgIO3
+Silver Periodate	AgIO4
+Silver Acetate	AgC2H3O2
+Silver Dihydrogen Phosphate	AgH2PO4
+Silver Carbonate	Ag2CO3
+Silver Sulfite	Ag2SO3
+Silver Sulfate	Ag2SO4
+Silver Thiosulfate	Ag2S2O3
+Silver Peroxide	Ag2O2
+Silver Chromate	Ag2CrO4
+Silver Dichromate	Ag2Cr2O7
+Silver Hydrogen Phosphate	Ag2HPO4
+Silver Phosphate	Ag3PO4
+Silver Arsenate	Ag3AsO4
+Silver Nitride	Ag3N
+Silver Phosphide	Ag3P
+Silver Arsenide	Ag3As
+Silver Oxide	Ag2O
+Silver Sulfide	Ag2S
+Silver Selenide	Ag2Se
+Silver Telluride	Ag2Te
+Silver Fluoride	AgF
+Silver Chloride	AgCl
+Silver Bromide	AgBr
+Silver Iodide	AgI
+Gold (I) Nitrite	AuNO2
+Gold (I) Nitrate	AuNO3
+Gold (I) Hydrogen Sulfate	AuHSO4
+Gold (I) Hydroxide	AuOH
+Gold (I) Cyanide	AuCN
+Gold (I) Permanganate	AuMnO4
+Gold (I) Hydrogen Carbonate	AuHCO3
+Gold (I) Hypochlorite	AuClO
+Gold (I) Chlorite	AuClO2
+Gold (I) Chlorate	AuClO3
+Gold (I) Perchlorate	AuClO4
+Gold (I) Bromate	AuBrO3
+Gold (I) Iodate	AuIO3
+Gold (I) Periodate	AuIO4
+Gold (I) Acetate	AuC2H3O2
+Gold (I) Dihydrogen Phosphate	AuH2PO4
+Gold (I) Carbonate	Au2CO3
+Gold (I) Sulfite	Au2SO3
+Gold (I) Sulfate	Au2SO4
+Gold (I) Thiosulfate	Au2S2O3
+Gold (I) Peroxide	Au2O2
+Gold (I) Chromate	Au2CrO4
+Gold (I) Dichromate	Au2Cr2O7
+Gold (I) Hydrogen Phosphate	Au2HPO4
+Gold (I) Phosphate	Au3PO4
+Gold (I) Arsenate	Au3AsO4
+Gold (I) Nitride	Au3N
+Gold (I) Phosphide	Au3P
+Gold (I) Arsenide	Au3As
+Gold (I) Oxide	Au2O
+Gold (I) Sulfide	Au2S
+Gold (I) Selenide	Au2Se
+Gold (I) Telluride	Au2Te
+Gold (I) Fluoride	AuF
+Gold (I) Chloride	AuCl
+Gold (I) Bromide	AuBr
+Gold (I) Iodide	AuI
+Gold (III) Nitrite	Au(NO2)3
+Gold (III) Nitrate	Au(NO3)3
+Gold (III) Hydrogen Sulfate	Au(HSO4)3
+Gold (III) Hydroxide	Au(OH)3
+Gold (III) Cyanide	Au(CN)3
+Gold (III) Permanganate	Au(MnO4)3
+Gold (III) Hydrogen Carbonate	Au(HCO3)3
+Gold (III) Hypochlorite	Au(ClO)3
+Gold (III) Chlorite	Au(ClO2)3
+Gold (III) Chlorate	Au(ClO3)3
+Gold (III) Perchlorate	Au(ClO4)3
+Gold (III) Bromate	Au(BrO3)3
+Gold (III) Iodate	Au(IO3)3
+Gold (III) Periodate	Au(IO4)3
+Gold (III) Acetate	Au(C2H3O2)3
+Gold (III) Dihydrogen Phosphate	Au(H2PO4)3
+Gold (III) Carbonate	Au2(CO3)3
+Gold (III) Sulfite	Au2(SO3)3
+Gold (III) Sulfate	Au2(SO4)3
+Gold (III) Thiosulfate	Au2(S2O3)3
+Gold (III) Peroxide	Au2(O2)3
+Gold (III) Chromate	Au2(CrO4)3
+Gold (III) Dichromate	Au2(Cr2O7)3
+Gold (III) Hydrogen Phosphate	Au2(HPO4)3
+Gold (III) Phosphate	AuPO4
+Gold (III) Arsenate	AuAsO4
+Gold (III) Nitride	AuN
+Gold (III) Phosphide	AuP
+Gold (III) Arsenide	AuAs
+Gold (III) Oxide	Au2O3
+Gold (III) Sulfide	Au2S3
+Gold (III) Selenide	Au2Se3
+Gold (III) Telluride	Au2Te3
+Gold (III) Fluoride	AuF3
+Gold (III) Chloride	AuCl3
+Gold (III) Bromide	AuBr3
+Gold (III) Iodide	AuI3
+Zinc Nitrite	Zn(NO2)2
+Zinc Nitrate	Zn(NO3)2
+Zinc Hydrogen Sulfate	Zn(HSO4)2
+Zinc Hydroxide	Zn(OH)2
+Zinc Cyanide	Zn(CN)2
+Zinc Permanganate	Zn(MnO4)2
+Zinc Hydrogen Carbonate	Zn(HCO3)2
+Zinc Hypochlorite	Zn(ClO)2
+Zinc Chlorite	Zn(ClO2)2
+Zinc Chlorate	Zn(ClO3)2
+Zinc Perchlorate	Zn(ClO4)2
+Zinc Bromate	Zn(BrO3)2
+Zinc Iodate	Zn(IO3)2
+Zinc Periodate	Zn(IO4)2
+Zinc Acetate	Zn(C2H3O2)2
+Zinc Dihydrogen Phosphate	Zn(H2PO4)2
+Zinc Carbonate	ZnCO3
+Zinc Sulfite	ZnSO3
+Zinc Sulfate	ZnSO4
+Zinc Thiosulfate	ZnS2O3
+Zinc Peroxide	ZnO2
+Zinc Chromate	ZnCrO4
+Zinc Dichromate	ZnCr2O7
+Zinc Hydrogen Phosphate	ZnHPO4
+Zinc Phosphate	Zn3(PO4)2
+Zinc Arsenate	Zn3(AsO4)2
+Zinc Nitride	Zn3N2
+Zinc Phosphide	Zn3P2
+Zinc Arsenide	Zn3As2
+Zinc Oxide	ZnO
+Zinc Sulfide	ZnS
+Zinc Selenide	ZnSe
+Zinc Telluride	ZnTe
+Zinc Fluoride	ZnF2
+Zinc Chloride	ZnCl2
+Zinc Bromide	ZnBr2
+Zinc Iodide	ZnI2
+Cadmium Nitrite	Cd(NO2)2
+Cadmium Nitrate	Cd(NO3)2
+Cadmium Hydrogen Sulfate	Cd(HSO4)2
+Cadmium Hydroxide	Cd(OH)2
+Cadmium Cyanide	Cd(CN)2
+Cadmium Permanganate	Cd(MnO4)2
+Cadmium Hydrogen Carbonate	Cd(HCO3)2
+Cadmium Hypochlorite	Cd(ClO)2
+Cadmium Chlorite	Cd(ClO2)2
+Cadmium Chlorate	Cd(ClO3)2
+Cadmium Perchlorate	Cd(ClO4)2
+Cadmium Bromate	Cd(BrO3)2
+Cadmium Iodate	Cd(IO3)2
+Cadmium Periodate	Cd(IO4)2
+Cadmium Acetate	Cd(C2H3O2)2
+Cadmium Dihydrogen Phosphate	Cd(H2PO4)2
+Cadmium Carbonate	CdCO3
+Cadmium Sulfite	CdSO3
+Cadmium Sulfate	CdSO4
+Cadmium Thiosulfate	CdS2O3
+Cadmium Peroxide	CdO2
+Cadmium Chromate	CdCrO4
+Cadmium Dichromate	CdCr2O7
+Cadmium Hydrogen Phosphate	CdHPO4
+Cadmium Phosphate	Cd3(PO4)2
+Cadmium Arsenate	Cd3(AsO4)2
+Cadmium Nitride	Cd3N2
+Cadmium Phosphide	Cd3P2
+Cadmium Arsenide	Cd3As2
+Cadmium Oxide	CdO
+Cadmium Sulfide	CdS
+Cadmium Selenide	CdSe
+Cadmium Telluride	CdTe
+Cadmium Fluoride	CdF2
+Cadmium Chloride	CdCl2
+Cadmium Bromide	CdBr2
+Cadmium Iodide	CdI2
+Mercury (I) Nitrite	Hg2(NO2)2
+Mercury (I) Nitrate	Hg2(NO3)2
+Mercury (I) Hydrogen Sulfate	Hg2(HSO4)2
+Mercury (I) Hydroxide	Hg2(OH)2
+Mercury (I) Cyanide	Hg2(CN)2
+Mercury (I) Permanganate	Hg2(MnO4)2
+Mercury (I) Hydrogen Carbonate	Hg2(HCO3)2
+Mercury (I) Hypochlorite	Hg2(ClO)2
+Mercury (I) Chlorite	Hg2(ClO2)2
+Mercury (I) Chlorate	Hg2(ClO3)2
+Mercury (I) Perchlorate	Hg2(ClO4)2
+Mercury (I) Bromate	Hg2(BrO3)2
+Mercury (I) Iodate	Hg2(IO3)2
+Mercury (I) Periodate	Hg2(IO4)2
+Mercury (I) Acetate	Hg2(C2H3O2)2
+Mercury (I) Dihydrogen Phosphate	Hg2(H2PO4)2
+Mercury (I) Carbonate	Hg2CO3
+Mercury (I) Sulfite	Hg2SO3
+Mercury (I) Sulfate	Hg2SO4
+Mercury (I) Thiosulfate	Hg2S2O3
+Mercury (I) Peroxide	Hg2O2
+Mercury (I) Chromate	Hg2CrO4
+Mercury (I) Dichromate	Hg2Cr2O7
+Mercury (I) Hydrogen Phosphate	Hg2HPO4
+Mercury (I) Phosphate	(Hg2)3(PO4)2
+Mercury (I) Arsenate	(Hg2)3(AsO4)2
+Mercury (I) Nitride	(Hg2)3N2
+Mercury (I) Phosphide	(Hg2)3P2
+Mercury (I) Arsenide	(Hg2)3As2
+Mercury (I) Oxide	Hg2O
+Mercury (I) Sulfide	Hg2S
+Mercury (I) Selenide	Hg2Se
+Mercury (I) Telluride	Hg2Te
+Mercury (I) Fluoride	Hg2F2
+Mercury (I) Chloride	Hg2Cl2
+Mercury (I) Bromide	Hg2Br2
+Mercury (I) Iodide	Hg2I2
+Mercury (II) Nitrite	Hg(NO2)2
+Mercury (II) Nitrate	Hg(NO3)2
+Mercury (II) Hydrogen Sulfate	Hg(HSO4)2
+Mercury (II) Hydroxide	Hg(OH)2
+Mercury (II) Cyanide	Hg(CN)2
+Mercury (II) Permanganate	Hg(MnO4)2
+Mercury (II) Hydrogen Carbonate	Hg(HCO3)2
+Mercury (II) Hypochlorite	Hg(ClO)2
+Mercury (II) Chlorite	Hg(ClO2)2
+Mercury (II) Chlorate	Hg(ClO3)2
+Mercury (II) Perchlorate	Hg(ClO4)2
+Mercury (II) Bromate	Hg(BrO3)2
+Mercury (II) Iodate	Hg(IO3)2
+Mercury (II) Periodate	Hg(IO4)2
+Mercury (II) Acetate	Hg(C2H3O2)2
+Mercury (II) Dihydrogen Phosphate	Hg(H2PO4)2
+Mercury (II) Carbonate	HgCO3
+Mercury (II) Sulfite	HgSO3
+Mercury (II) Sulfate	HgSO4
+Mercury (II) Thiosulfate	HgS2O3
+Mercury (II) Peroxide	HgO2
+Mercury (II) Chromate	HgCrO4
+Mercury (II) Dichromate	HgCr2O7
+Mercury (II) Hydrogen Phosphate	HgHPO4
+Mercury (II) Phosphate	Hg3(PO4)2
+Mercury (II) Arsenate	Hg3(AsO4)2
+Mercury (II) Nitride	Hg3N2
+Mercury (II) Phosphide	Hg3P2
+Mercury (II) Arsenide	Hg3As2
+Mercury (II) Oxide	HgO
+Mercury (II) Sulfide	HgS
+Mercury (II) Selenide	HgSe
+Mercury (II) Telluride	HgTe
+Mercury (II) Fluoride	HgF2
+Mercury (II) Chloride	HgCl2
+Mercury (II) Bromide	HgBr2
+Mercury (II) Iodide	HgI2
+Aluminum Nitrite	Al(NO2)3
+Aluminum Nitrate	Al(NO3)3
+Aluminum Hydrogen Sulfate	Al(HSO4)3
+Aluminum Hydroxide	Al(OH)3
+Aluminum Cyanide	Al(CN)3
+Aluminum Permanganate	Al(MnO4)3
+Aluminum Hydrogen Carbonate	Al(HCO3)3
+Aluminum Hypochlorite	Al(ClO)3
+Aluminum Chlorite	Al(ClO2)3
+Aluminum Chlorate	Al(ClO3)3
+Aluminum Perchlorate	Al(ClO4)3
+Aluminum Bromate	Al(BrO3)3
+Aluminum Iodate	Al(IO3)3
+Aluminum Periodate	Al(IO4)3
+Aluminum Acetate	Al(C2H3O2)3
+Aluminum Dihydrogen Phosphate	Al(H2PO4)3
+Aluminum Carbonate	Al2(CO3)3
+Aluminum Sulfite	Al2(SO3)3
+Aluminum Sulfate	Al2(SO4)3
+Aluminum Thiosulfate	Al2(S2O3)3
+Aluminum Peroxide	Al2(O2)3
+Aluminum Chromate	Al2(CrO4)3
+Aluminum Dichromate	Al2(Cr2O7)3
+Aluminum Hydrogen Phosphate	Al2(HPO4)3
+Aluminum Phosphate	AlPO4
+Aluminum Arsenate	AlAsO4
+Aluminum Nitride	AlN
+Aluminum Phosphide	AlP
+Aluminum Arsenide	AlAs
+Aluminum Oxide	Al2O3
+Aluminum Sulfide	Al2S3
+Aluminum Selenide	Al2Se3
+Aluminum Telluride	Al2Te3
+Aluminum Fluoride	AlF3
+Aluminum Chloride	AlCl3
+Aluminum Bromide	AlBr3
+Aluminum Iodide	AlI3
+Gallium (II) Nitrite	Ga(NO2)2
+Gallium (II) Nitrate	Ga(NO3)2
+Gallium (II) Hydrogen Sulfate	Ga(HSO4)2
+Gallium (II) Hydroxide	Ga(OH)2
+Gallium (II) Cyanide	Ga(CN)2
+Gallium (II) Permanganate	Ga(MnO4)2
+Gallium (II) Hydrogen Carbonate	Ga(HCO3)2
+Gallium (II) Hypochlorite	Ga(ClO)2
+Gallium (II) Chlorite	Ga(ClO2)2
+Gallium (II) Chlorate	Ga(ClO3)2
+Gallium (II) Perchlorate	Ga(ClO4)2
+Gallium (II) Bromate	Ga(BrO3)2
+Gallium (II) Iodate	Ga(IO3)2
+Gallium (II) Periodate	Ga(IO4)2
+Gallium (II) Acetate	Ga(C2H3O2)2
+Gallium (II) Dihydrogen Phosphate	Ga(H2PO4)2
+Gallium (II) Carbonate	GaCO3
+Gallium (II) Sulfite	GaSO3
+Gallium (II) Sulfate	GaSO4
+Gallium (II) Thiosulfate	GaS2O3
+Gallium (II) Peroxide	GaO2
+Gallium (II) Chromate	GaCrO4
+Gallium (II) Dichromate	GaCr2O7
+Gallium (II) Hydrogen Phosphate	GaHPO4
+Gallium (II) Phosphate	Ga3(PO4)2
+Gallium (II) Arsenate	Ga3(AsO4)2
+Gallium (II) Nitride	Ga3N2
+Gallium (II) Phosphide	Ga3P2
+Gallium (II) Arsenide	Ga3As2
+Gallium (II) Oxide	GaO
+Gallium (II) Sulfide	GaS
+Gallium (II) Selenide	GaSe
+Gallium (II) Telluride	GaTe
+Gallium (II) Fluoride	GaF2
+Gallium (II) Chloride	GaCl2
+Gallium (II) Bromide	GaBr2
+Gallium (II) Iodide	GaI2
+Gallium (III) Nitrite	Ga(NO2)3
+Gallium (III) Nitrate	Ga(NO3)3
+Gallium (III) Hydrogen Sulfate	Ga(HSO4)3
+Gallium (III) Hydroxide	Ga(OH)3
+Gallium (III) Cyanide	Ga(CN)3
+Gallium (III) Permanganate	Ga(MnO4)3
+Gallium (III) Hydrogen Carbonate	Ga(HCO3)3
+Gallium (III) Hypochlorite	Ga(ClO)3
+Gallium (III) Chlorite	Ga(ClO2)3
+Gallium (III) Chlorate	Ga(ClO3)3
+Gallium (III) Perchlorate	Ga(ClO4)3
+Gallium (III) Bromate	Ga(BrO3)3
+Gallium (III) Iodate	Ga(IO3)3
+Gallium (III) Periodate	Ga(IO4)3
+Gallium (III) Acetate	Ga(C2H3O2)3
+Gallium (III) Dihydrogen Phosphate	Ga(H2PO4)3
+Gallium (III) Carbonate	Ga2(CO3)3
+Gallium (III) Sulfite	Ga2(SO3)3
+Gallium (III) Sulfate	Ga2(SO4)3
+Gallium (III) Thiosulfate	Ga2(S2O3)3
+Gallium (III) Peroxide	Ga2(O2)3
+Gallium (III) Chromate	Ga2(CrO4)3
+Gallium (III) Dichromate	Ga2(Cr2O7)3
+Gallium (III) Hydrogen Phosphate	Ga2(HPO4)3
+Gallium (III) Phosphate	GaPO4
+Gallium (III) Arsenate	GaAsO4
+Gallium (III) Nitride	GaN
+Gallium (III) Phosphide	GaP
+Gallium (III) Arsenide	GaAs
+Gallium (III) Oxide	Ga2O3
+Gallium (III) Sulfide	Ga2S3
+Gallium (III) Selenide	Ga2Se3
+Gallium (III) Telluride	Ga2Te3
+Gallium (III) Fluoride	GaF3
+Gallium (III) Chloride	GaCl3
+Gallium (III) Bromide	GaBr3
+Gallium (III) Iodide	GaI3
+Indium (I) Nitrite	InNO2
+Indium (I) Nitrate	InNO3
+Indium (I) Hydrogen Sulfate	InHSO4
+Indium (I) Hydroxide	InOH
+Indium (I) Cyanide	InCN
+Indium (I) Permanganate	InMnO4
+Indium (I) Hydrogen Carbonate	InHCO3
+Indium (I) Hypochlorite	InClO
+Indium (I) Chlorite	InClO2
+Indium (I) Chlorate	InClO3
+Indium (I) Perchlorate	InClO4
+Indium (I) Bromate	InBrO3
+Indium (I) Iodate	InIO3
+Indium (I) Periodate	InIO4
+Indium (I) Acetate	InC2H3O2
+Indium (I) Dihydrogen Phosphate	InH2PO4
+Indium (I) Carbonate	In2CO3
+Indium (I) Sulfite	In2SO3
+Indium (I) Sulfate	In2SO4
+Indium (I) Thiosulfate	In2S2O3
+Indium (I) Peroxide	In2O2
+Indium (I) Chromate	In2CrO4
+Indium (I) Dichromate	In2Cr2O7
+Indium (I) Hydrogen Phosphate	In2HPO4
+Indium (I) Phosphate	In3PO4
+Indium (I) Arsenate	In3AsO4
+Indium (I) Nitride	In3N
+Indium (I) Phosphide	In3P
+Indium (I) Arsenide	In3As
+Indium (I) Oxide	In2O
+Indium (I) Sulfide	In2S
+Indium (I) Selenide	In2Se
+Indium (I) Telluride	In2Te
+Indium (I) Fluoride	InF
+Indium (I) Chloride	InCl
+Indium (I) Bromide	InBr
+Indium (I) Iodide	InI
+Indium (II) Nitrite	In(NO2)2
+Indium (II) Nitrate	In(NO3)2
+Indium (II) Hydrogen Sulfate	In(HSO4)2
+Indium (II) Hydroxide	In(OH)2
+Indium (II) Cyanide	In(CN)2
+Indium (II) Permanganate	In(MnO4)2
+Indium (II) Hydrogen Carbonate	In(HCO3)2
+Indium (II) Hypochlorite	In(ClO)2
+Indium (II) Chlorite	In(ClO2)2
+Indium (II) Chlorate	In(ClO3)2
+Indium (II) Perchlorate	In(ClO4)2
+Indium (II) Bromate	In(BrO3)2
+Indium (II) Iodate	In(IO3)2
+Indium (II) Periodate	In(IO4)2
+Indium (II) Acetate	In(C2H3O2)2
+Indium (II) Dihydrogen Phosphate	In(H2PO4)2
+Indium (II) Carbonate	InCO3
+Indium (II) Sulfite	InSO3
+Indium (II) Sulfate	InSO4
+Indium (II) Thiosulfate	InS2O3
+Indium (II) Peroxide	InO2
+Indium (II) Chromate	InCrO4
+Indium (II) Dichromate	InCr2O7
+Indium (II) Hydrogen Phosphate	InHPO4
+Indium (II) Phosphate	In3(PO4)2
+Indium (II) Arsenate	In3(AsO4)2
+Indium (II) Nitride	In3N2
+Indium (II) Phosphide	In3P2
+Indium (II) Arsenide	In3As2
+Indium (II) Oxide	InO
+Indium (II) Sulfide	InS
+Indium (II) Selenide	InSe
+Indium (II) Telluride	InTe
+Indium (II) Fluoride	InF2
+Indium (II) Chloride	InCl2
+Indium (II) Bromide	InBr2
+Indium (II) Iodide	InI2
+Indium (III) Nitrite	In(NO2)3
+Indium (III) Nitrate	In(NO3)3
+Indium (III) Hydrogen Sulfate	In(HSO4)3
+Indium (III) Hydroxide	In(OH)3
+Indium (III) Cyanide	In(CN)3
+Indium (III) Permanganate	In(MnO4)3
+Indium (III) Hydrogen Carbonate	In(HCO3)3
+Indium (III) Hypochlorite	In(ClO)3
+Indium (III) Chlorite	In(ClO2)3
+Indium (III) Chlorate	In(ClO3)3
+Indium (III) Perchlorate	In(ClO4)3
+Indium (III) Bromate	In(BrO3)3
+Indium (III) Iodate	In(IO3)3
+Indium (III) Periodate	In(IO4)3
+Indium (III) Acetate	In(C2H3O2)3
+Indium (III) Dihydrogen Phosphate	In(H2PO4)3
+Indium (III) Carbonate	In2(CO3)3
+Indium (III) Sulfite	In2(SO3)3
+Indium (III) Sulfate	In2(SO4)3
+Indium (III) Thiosulfate	In2(S2O3)3
+Indium (III) Peroxide	In2(O2)3
+Indium (III) Chromate	In2(CrO4)3
+Indium (III) Dichromate	In2(Cr2O7)3
+Indium (III) Hydrogen Phosphate	In2(HPO4)3
+Indium (III) Phosphate	InPO4
+Indium (III) Arsenate	InAsO4
+Indium (III) Nitride	InN
+Indium (III) Phosphide	InP
+Indium (III) Arsenide	InAs
+Indium (III) Oxide	In2O3
+Indium (III) Sulfide	In2S3
+Indium (III) Selenide	In2Se3
+Indium (III) Telluride	In2Te3
+Indium (III) Fluoride	InF3
+Indium (III) Chloride	InCl3
+Indium (III) Bromide	InBr3
+Indium (III) Iodide	InI3
+Thallium (I) Nitrite	TlNO2
+Thallium (I) Nitrate	TlNO3
+Thallium (I) Hydrogen Sulfate	TlHSO4
+Thallium (I) Hydroxide	TlOH
+Thallium (I) Cyanide	TlCN
+Thallium (I) Permanganate	TlMnO4
+Thallium (I) Hydrogen Carbonate	TlHCO3
+Thallium (I) Hypochlorite	TlClO
+Thallium (I) Chlorite	TlClO2
+Thallium (I) Chlorate	TlClO3
+Thallium (I) Perchlorate	TlClO4
+Thallium (I) Bromate	TlBrO3
+Thallium (I) Iodate	TlIO3
+Thallium (I) Periodate	TlIO4
+Thallium (I) Acetate	TlC2H3O2
+Thallium (I) Dihydrogen Phosphate	TlH2PO4
+Thallium (I) Carbonate	Tl2CO3
+Thallium (I) Sulfite	Tl2SO3
+Thallium (I) Sulfate	Tl2SO4
+Thallium (I) Thiosulfate	Tl2S2O3
+Thallium (I) Peroxide	Tl2O2
+Thallium (I) Chromate	Tl2CrO4
+Thallium (I) Dichromate	Tl2Cr2O7
+Thallium (I) Hydrogen Phosphate	Tl2HPO4
+Thallium (I) Phosphate	Tl3PO4
+Thallium (I) Arsenate	Tl3AsO4
+Thallium (I) Nitride	Tl3N
+Thallium (I) Phosphide	Tl3P
+Thallium (I) Arsenide	Tl3As
+Thallium (I) Oxide	Tl2O
+Thallium (I) Sulfide	Tl2S
+Thallium (I) Selenide	Tl2Se
+Thallium (I) Telluride	Tl2Te
+Thallium (I) Fluoride	TlF
+Thallium (I) Chloride	TlCl
+Thallium (I) Bromide	TlBr
+Thallium (I) Iodide	TlI
+Thallium (III) Nitrite	Tl(NO2)3
+Thallium (III) Nitrate	Tl(NO3)3
+Thallium (III) Hydrogen Sulfate	Tl(HSO4)3
+Thallium (III) Hydroxide	Tl(OH)3
+Thallium (III) Cyanide	Tl(CN)3
+Thallium (III) Permanganate	Tl(MnO4)3
+Thallium (III) Hydrogen Carbonate	Tl(HCO3)3
+Thallium (III) Hypochlorite	Tl(ClO)3
+Thallium (III) Chlorite	Tl(ClO2)3
+Thallium (III) Chlorate	Tl(ClO3)3
+Thallium (III) Perchlorate	Tl(ClO4)3
+Thallium (III) Bromate	Tl(BrO3)3
+Thallium (III) Iodate	Tl(IO3)3
+Thallium (III) Periodate	Tl(IO4)3
+Thallium (III) Acetate	Tl(C2H3O2)3
+Thallium (III) Dihydrogen Phosphate	Tl(H2PO4)3
+Thallium (III) Carbonate	Tl2(CO3)3
+Thallium (III) Sulfite	Tl2(SO3)3
+Thallium (III) Sulfate	Tl2(SO4)3
+Thallium (III) Thiosulfate	Tl2(S2O3)3
+Thallium (III) Peroxide	Tl2(O2)3
+Thallium (III) Chromate	Tl2(CrO4)3
+Thallium (III) Dichromate	Tl2(Cr2O7)3
+Thallium (III) Hydrogen Phosphate	Tl2(HPO4)3
+Thallium (III) Phosphate	TlPO4
+Thallium (III) Arsenate	TlAsO4
+Thallium (III) Nitride	TlN
+Thallium (III) Phosphide	TlP
+Thallium (III) Arsenide	TlAs
+Thallium (III) Oxide	Tl2O3
+Thallium (III) Sulfide	Tl2S3
+Thallium (III) Selenide	Tl2Se3
+Thallium (III) Telluride	Tl2Te3
+Thallium (III) Fluoride	TlF3
+Thallium (III) Chloride	TlCl3
+Thallium (III) Bromide	TlBr3
+Thallium (III) Iodide	TlI3
+Tin (II) Nitrite	Sn(NO2)2
+Tin (II) Nitrate	Sn(NO3)2
+Tin (II) Hydrogen Sulfate	Sn(HSO4)2
+Tin (II) Hydroxide	Sn(OH)2
+Tin (II) Cyanide	Sn(CN)2
+Tin (II) Permanganate	Sn(MnO4)2
+Tin (II) Hydrogen Carbonate	Sn(HCO3)2
+Tin (II) Hypochlorite	Sn(ClO)2
+Tin (II) Chlorite	Sn(ClO2)2
+Tin (II) Chlorate	Sn(ClO3)2
+Tin (II) Perchlorate	Sn(ClO4)2
+Tin (II) Bromate	Sn(BrO3)2
+Tin (II) Iodate	Sn(IO3)2
+Tin (II) Periodate	Sn(IO4)2
+Tin (II) Acetate	Sn(C2H3O2)2
+Tin (II) Dihydrogen Phosphate	Sn(H2PO4)2
+Tin (II) Carbonate	SnCO3
+Tin (II) Sulfite	SnSO3
+Tin (II) Sulfate	SnSO4
+Tin (II) Thiosulfate	SnS2O3
+Tin (II) Peroxide	SnO2
+Tin (II) Chromate	SnCrO4
+Tin (II) Dichromate	SnCr2O7
+Tin (II) Hydrogen Phosphate	SnHPO4
+Tin (II) Phosphate	Sn3(PO4)2
+Tin (II) Arsenate	Sn3(AsO4)2
+Tin (II) Nitride	Sn3N2
+Tin (II) Phosphide	Sn3P2
+Tin (II) Arsenide	Sn3As2
+Tin (II) Oxide	SnO
+Tin (II) Sulfide	SnS
+Tin (II) Selenide	SnSe
+Tin (II) Telluride	SnTe
+Tin (II) Fluoride	SnF2
+Tin (II) Chloride	SnCl2
+Tin (II) Bromide	SnBr2
+Tin (II) Iodide	SnI2
+Tin (IV) Nitrite	Sn(NO2)4
+Tin (IV) Nitrate	Sn(NO3)4
+Tin (IV) Hydrogen Sulfate	Sn(HSO4)4
+Tin (IV) Hydroxide	Sn(OH)4
+Tin (IV) Cyanide	Sn(CN)4
+Tin (IV) Permanganate	Sn(MnO4)4
+Tin (IV) Hydrogen Carbonate	Sn(HCO3)4
+Tin (IV) Hypochlorite	Sn(ClO)4
+Tin (IV) Chlorite	Sn(ClO2)4
+Tin (IV) Chlorate	Sn(ClO3)4
+Tin (IV) Perchlorate	Sn(ClO4)4
+Tin (IV) Bromate	Sn(BrO3)4
+Tin (IV) Iodate	Sn(IO3)4
+Tin (IV) Periodate	Sn(IO4)4
+Tin (IV) Acetate	Sn(C2H3O2)4
+Tin (IV) Dihydrogen Phosphate	Sn(H2PO4)4
+Tin (IV) Carbonate	Sn(CO3)2
+Tin (IV) Sulfite	Sn(SO3)2
+Tin (IV) Sulfate	Sn(SO4)2
+Tin (IV) Thiosulfate	Sn(S2O3)2
+Tin (IV) Peroxide	Sn(O2)2
+Tin (IV) Chromate	Sn(CrO4)2
+Tin (IV) Dichromate	Sn(Cr2O7)2
+Tin (IV) Hydrogen Phosphate	Sn(HPO4)2
+Tin (IV) Phosphate	Sn3(PO4)4
+Tin (IV) Arsenate	Sn3(AsO4)4
+Tin (IV) Nitride	Sn3N4
+Tin (IV) Phosphide	Sn3P4
+Tin (IV) Arsenide	Sn3As4
+Tin (IV) Oxide	SnO2
+Tin (IV) Sulfide	SnS2
+Tin (IV) Selenide	SnSe2
+Tin (IV) Telluride	SnTe2
+Tin (IV) Fluoride	SnF4
+Tin (IV) Chloride	SnCl4
+Tin (IV) Bromide	SnBr4
+Tin (IV) Iodide	SnI4
+Lead (II) Nitrite	Pb(NO2)2
+Lead (II) Nitrate	Pb(NO3)2
+Lead (II) Hydrogen Sulfate	Pb(HSO4)2
+Lead (II) Hydroxide	Pb(OH)2
+Lead (II) Cyanide	Pb(CN)2
+Lead (II) Permanganate	Pb(MnO4)2
+Lead (II) Hydrogen Carbonate	Pb(HCO3)2
+Lead (II) Hypochlorite	Pb(ClO)2
+Lead (II) Chlorite	Pb(ClO2)2
+Lead (II) Chlorate	Pb(ClO3)2
+Lead (II) Perchlorate	Pb(ClO4)2
+Lead (II) Bromate	Pb(BrO3)2
+Lead (II) Iodate	Pb(IO3)2
+Lead (II) Periodate	Pb(IO4)2
+Lead (II) Acetate	Pb(C2H3O2)2
+Lead (II) Dihydrogen Phosphate	Pb(H2PO4)2
+Lead (II) Carbonate	PbCO3
+Lead (II) Sulfite	PbSO3
+Lead (II) Sulfate	PbSO4
+Lead (II) Thiosulfate	PbS2O3
+Lead (II) Peroxide	PbO2
+Lead (II) Chromate	PbCrO4
+Lead (II) Dichromate	PbCr2O7
+Lead (II) Hydrogen Phosphate	PbHPO4
+Lead (II) Phosphate	Pb3(PO4)2
+Lead (II) Arsenate	Pb3(AsO4)2
+Lead (II) Nitride	Pb3N2
+Lead (II) Phosphide	Pb3P2
+Lead (II) Arsenide	Pb3As2
+Lead (II) Oxide	PbO
+Lead (II) Sulfide	PbS
+Lead (II) Selenide	PbSe
+Lead (II) Telluride	PbTe
+Lead (II) Fluoride	PbF2
+Lead (II) Chloride	PbCl2
+Lead (II) Bromide	PbBr2
+Lead (II) Iodide	PbI2
+Lead (IV) Nitrite	Pb(NO2)4
+Lead (IV) Nitrate	Pb(NO3)4
+Lead (IV) Hydrogen Sulfate	Pb(HSO4)4
+Lead (IV) Hydroxide	Pb(OH)4
+Lead (IV) Cyanide	Pb(CN)4
+Lead (IV) Permanganate	Pb(MnO4)4
+Lead (IV) Hydrogen Carbonate	Pb(HCO3)4
+Lead (IV) Hypochlorite	Pb(ClO)4
+Lead (IV) Chlorite	Pb(ClO2)4
+Lead (IV) Chlorate	Pb(ClO3)4
+Lead (IV) Perchlorate	Pb(ClO4)4
+Lead (IV) Bromate	Pb(BrO3)4
+Lead (IV) Iodate	Pb(IO3)4
+Lead (IV) Periodate	Pb(IO4)4
+Lead (IV) Acetate	Pb(C2H3O2)4
+Lead (IV) Dihydrogen Phosphate	Pb(H2PO4)4
+Lead (IV) Carbonate	Pb(CO3)2
+Lead (IV) Sulfite	Pb(SO3)2
+Lead (IV) Sulfate	Pb(SO4)2
+Lead (IV) Thiosulfate	Pb(S2O3)2
+Lead (IV) Peroxide	Pb(O2)2
+Lead (IV) Chromate	Pb(CrO4)2
+Lead (IV) Dichromate	Pb(Cr2O7)2
+Lead (IV) Hydrogen Phosphate	Pb(HPO4)2
+Lead (IV) Phosphate	Pb3(PO4)4
+Lead (IV) Arsenate	Pb3(AsO4)4
+Lead (IV) Nitride	Pb3N4
+Lead (IV) Phosphide	Pb3P4
+Lead (IV) Arsenide	Pb3As4
+Lead (IV) Oxide	PbO2
+Lead (IV) Sulfide	PbS2
+Lead (IV) Selenide	PbSe2
+Lead (IV) Telluride	PbTe2
+Lead (IV) Fluoride	PbF4
+Lead (IV) Chloride	PbCl4
+Lead (IV) Bromide	PbBr4
+Lead (IV) Iodide	PbI4
+Ammonium Nitrite	NH4NO2
+Ammonium Nitrate	NH4NO3
+Ammonium Hydrogen Sulfate	NH4HSO4
+Ammonium Hydroxide	NH4OH
+Ammonium Cyanide	NH4CN
+Ammonium Permanganate	NH4MnO4
+Ammonium Hydrogen Carbonate	NH4HCO3
+Ammonium Hypochlorite	NH4ClO
+Ammonium Chlorite	NH4ClO2
+Ammonium Chlorate	NH4ClO3
+Ammonium Perchlorate	NH4ClO4
+Ammonium Bromate	NH4BrO3
+Ammonium Iodate	NH4IO3
+Ammonium Periodate	NH4IO4
+Ammonium Acetate	NH4C2H3O2
+Ammonium Dihydrogen Phosphate	NH4H2PO4
+Ammonium Carbonate	(NH4)2CO3
+Ammonium Sulfite	(NH4)2SO3
+Ammonium Sulfate	(NH4)2SO4
+Ammonium Thiosulfate	(NH4)2S2O3
+Ammonium Peroxide	(NH4)2O2
+Ammonium Chromate	(NH4)2CrO4
+Ammonium Dichromate	(NH4)2Cr2O7
+Ammonium Hydrogen Phosphate	(NH4)2HPO4
+Ammonium Phosphate	(NH4)3PO4
+Ammonium Arsenate	(NH4)3AsO4
+Ammonium Nitride	(NH4)3N
+Ammonium Phosphide	(NH4)3P
+Ammonium Arsenide	(NH4)3As
+Ammonium Oxide	(NH4)2O
+Ammonium Sulfide	(NH4)2S
+Ammonium Selenide	(NH4)2Se
+Ammonium Telluride	(NH4)2Te
+Ammonium Fluoride	NH4F
+Ammonium Chloride	NH4Cl
+Ammonium Bromide	NH4Br
+Ammonium Iodide	NH4I
